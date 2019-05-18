@@ -18,6 +18,6 @@ Feel free to contribute by:
 - Configuring a test framework
 - Adding tests
 
-Feel free to use it on anything (that's why it's MIT license), including commercial products, Stackoverflow questions and answers.
+It's MIT license! Feel free to use on commercial products, Stackoverflow questions and answers.
 
 Keeping in mind that I provide no guarantee.
